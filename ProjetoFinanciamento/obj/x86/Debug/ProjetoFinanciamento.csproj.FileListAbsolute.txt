@@ -1,0 +1,20 @@
+c:\users\roasa\documents\visual studio 2010\Projects\ProjetoFinanciamento\ProjetoFinanciamento\bin\Debug\ProjetoFinanciamento.exe
+c:\users\roasa\documents\visual studio 2010\Projects\ProjetoFinanciamento\ProjetoFinanciamento\bin\Debug\ProjetoFinanciamento.pdb
+c:\users\roasa\documents\visual studio 2010\Projects\ProjetoFinanciamento\ProjetoFinanciamento\obj\x86\Debug\ProjetoFinanciamento.exe
+c:\users\roasa\documents\visual studio 2010\Projects\ProjetoFinanciamento\ProjetoFinanciamento\obj\x86\Debug\ProjetoFinanciamento.pdb
+E:\ProjetoFinanciamento\ProjetoFinanciamento\obj\x86\Debug\ProjetoFinanciamento.exe
+E:\ProjetoFinanciamento\ProjetoFinanciamento\obj\x86\Debug\ProjetoFinanciamento.pdb
+E:\ProjetoFinanciamento\ProjetoFinanciamento\bin\Debug\ProjetoFinanciamento.exe
+E:\ProjetoFinanciamento\ProjetoFinanciamento\bin\Debug\ProjetoFinanciamento.pdb
+E:\ProjetoFinanciamento\ProjetoFinanciamento\obj\x86\Debug\ProjetoFinanciamento.csprojResolveAssemblyReference.cache
+G:\DOCUMENTOS (TI) CURSO_2018.2\LINGUAGEM DE PROGRAMAÇÃO III - C#\ProjetoFinanciamento\ProjetoFinanciamento\obj\x86\Debug\ProjetoFinanciamento.exe
+G:\DOCUMENTOS (TI) CURSO_2018.2\LINGUAGEM DE PROGRAMAÇÃO III - C#\ProjetoFinanciamento\ProjetoFinanciamento\obj\x86\Debug\ProjetoFinanciamento.pdb
+G:\Arquivos (Ass)\DOCUMENTOS (TI) CURSO_2018.2\LINGUAGEM DE PROGRAMAÇÃO III - C#\ProjetoFinanciamento\ProjetoFinanciamento\obj\x86\Debug\ProjetoFinanciamento.exe
+G:\Arquivos (Ass)\DOCUMENTOS (TI) CURSO_2018.2\LINGUAGEM DE PROGRAMAÇÃO III - C#\ProjetoFinanciamento\ProjetoFinanciamento\obj\x86\Debug\ProjetoFinanciamento.pdb
+C:\Users\Family\OneDrive\Documentos\Visual Studio 2022\ProjetoFinanciamento\ProjetoFinanciamento\bin\Debug\ProjetoFinanciamento.exe.config
+C:\Users\Family\OneDrive\Documentos\Visual Studio 2022\ProjetoFinanciamento\ProjetoFinanciamento\bin\Debug\ProjetoFinanciamento.exe
+C:\Users\Family\OneDrive\Documentos\Visual Studio 2022\ProjetoFinanciamento\ProjetoFinanciamento\bin\Debug\ProjetoFinanciamento.pdb
+C:\Users\Family\OneDrive\Documentos\Visual Studio 2022\ProjetoFinanciamento\ProjetoFinanciamento\obj\x86\Debug\ProjetoFinanciamento.csproj.AssemblyReference.cache
+C:\Users\Family\OneDrive\Documentos\Visual Studio 2022\ProjetoFinanciamento\ProjetoFinanciamento\obj\x86\Debug\ProjetoFinanciamento.csproj.CoreCompileInputs.cache
+C:\Users\Family\OneDrive\Documentos\Visual Studio 2022\ProjetoFinanciamento\ProjetoFinanciamento\obj\x86\Debug\ProjetoFinanciamento.exe
+C:\Users\Family\OneDrive\Documentos\Visual Studio 2022\ProjetoFinanciamento\ProjetoFinanciamento\obj\x86\Debug\ProjetoFinanciamento.pdb
